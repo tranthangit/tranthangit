@@ -2,8 +2,6 @@
 
 ### I'm Developer from Vietnam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tranthangit&label=Profile views&color=0e75b6&style=flat" alt="tranthangit" /> </p>
-
 - 📫 How to reach me **tranthangit.svip@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
